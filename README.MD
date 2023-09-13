@@ -7,6 +7,7 @@
 - Typescript
 - React JS
 - Node JS
+- Fastify
 - Vercel SDK
 - Tailwind CSS
 - Open IA
